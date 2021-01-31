@@ -10,5 +10,4 @@ public class FolhaApplication {
 		SpringApplication.run(FolhaApplication.class, args);
 	}
 
-	
 }
